@@ -14,4 +14,5 @@ Research Interests
 ------
 Economics of Education, Labor Economics, Development Economics
 
-[Curriculum Vitae](
+[Curriculum Vitae](images/Berchuk_CV.pdf "download"){:target="_blank"}
+
